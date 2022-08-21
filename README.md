@@ -1,2 +1,2 @@
 # HammingCodeErrorDetection
-A program coded in Assembly, that detects errors using hamming distance error correction.
+A program coded in Assembly, that detects errors using hamming distance error detection.
